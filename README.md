@@ -6,6 +6,7 @@ BETA 4
 add RESET and PAUSA key simulator
 
 RESET = on the USB keyboard, simultaneously use left control + left alt + right altagr + right control
+
 PAUSA = USB Keyboard key Pausa
 
 software upload bin

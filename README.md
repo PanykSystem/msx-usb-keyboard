@@ -2,6 +2,10 @@
 use USB keyboards on the MSX
 
 
+BETA 5
+general improvement, bug fix, new Windows-like reset method "ctrl + alt + del"
+being tested on the TR
+
 BETA 4
 add RESET and PAUSA key simulator
 
